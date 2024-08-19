@@ -1,0 +1,26 @@
+#name {
+    font-family: cursive;
+    font-size: 70px;
+    text-emphasis: underline;
+    color: green;
+    opacity: 0.7;
+
+}
+
+
+.about {
+    font-family: Arial, Helvetica, sans-seri;
+
+}
+
+h1 {
+    color: darkgreen;
+}
+
+li:hover {
+    color: olive;
+}
+
+h4.about {
+    color: darkgreen;
+}
