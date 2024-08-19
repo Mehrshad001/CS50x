@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Sort 1 performs slowly on reversedlist.
+
+sort2 uses: Merge Sort
+
+How do you know?: Sort 2 performs the fastest on reversedlist.
+
+sort3 uses: Selection Sort
+
+How do you know?: Sort 3 performs faster than Sort 1 but slower than Sort 2 on reversedlist.
+
